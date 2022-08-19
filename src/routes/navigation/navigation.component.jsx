@@ -2,6 +2,7 @@ import { Fragment } from "react";
 import { Outlet, Link } from "react-router-dom";
 import styled from "./navigation.module.scss";
 
+
 const Navigation = () => {
   return (
     <Fragment>
