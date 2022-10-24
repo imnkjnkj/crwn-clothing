@@ -22,7 +22,7 @@ const Navigation = () => {
                 <Link to="/contact">CONTACT</Link>
               </li>
               <li>
-                <Link to="/sign-in">SIGN IN</Link>
+                <Link to="/auth">SIGN IN</Link>
               </li>
             </ul>
           </div>

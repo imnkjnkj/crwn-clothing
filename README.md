@@ -1,4 +1,5 @@
 # crwn-clothing
+https://funix.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/30962168#overview
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### database 
+https://console.firebase.google.com/u/0/project/crwn-clothing-db-8097a/authentication/users?pli=1
